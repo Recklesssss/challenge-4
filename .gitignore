@@ -1,0 +1,5 @@
+venv/
+rossmann-store-sales
+rossmann_model_2024-09-24_14-35-22.pkl
+unittest.yml
+deploy/
